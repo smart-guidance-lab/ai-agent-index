@@ -42,6 +42,9 @@ export default async function Home() {
           <p className="font-mono text-xs uppercase tracking-widest text-zinc-500">
             Edit <code className="bg-zinc-800 px-1.5 py-0.5 text-zinc-400">data/agents.md</code> to update.
           </p>
+          <p className="mt-4 font-mono text-[10px] uppercase tracking-wider text-zinc-600">
+            AI-Curation Policy: Data is autonomously updated daily.
+          </p>
         </footer>
       </div>
     </div>

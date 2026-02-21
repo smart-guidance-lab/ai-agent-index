@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Agent Index | Directory",
-  description: "A curated directory of AI agents and assistants for developers and technical users.",
+  title: "AI Agent Index — Curated Directory for Agentic AI & Autonomous Systems",
+  description:
+    "Expert-curated index of AI agents, tool-use systems, and autonomous workflows. Discover agents, skills, and integrations for developers and ML practitioners.",
 };
 
 export default function RootLayout({
